@@ -1,14 +1,12 @@
 # Hi, my name is Elena!
 
----
-
 ### 👨‍💻 About me:
 
 Привет! Меня зовут Елена и это мое резюме для позиции Junior QA. Здесь собрано портфолио из различных обучений и пет-проектов, которыми я бы хотела поделиться.
 
 Ссылка на мое полное резюме: in progress
 
-Имею опыт в ux/ui проектировании веб-интерфесов и мобильных приложений, а так же в разработке на языке Javascript. 
+Имею опыт в ux/ui проектировании веб-интерфесов и мобильных приложений, а так же в разработке на языке Javascript. В свободное время изучаю автоматизацию тестирования с помощью Javascript.
 
 
 ---
@@ -53,10 +51,11 @@
 
 ---
 
-### Other:
+### 📚 Other:
 <div>
 <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMBlC53RmPccg8Z04qM9RzGuNMEDWOOwPZYDglvYuWld-J3UZoSHkGTnRAvanTv03hk4&usqp=CAU" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
 </div>
 
 ---
