@@ -55,9 +55,10 @@
 
 ### Other:
 <div>
-<img src="https://s3-alpha.figma.com/hub/file/2815952264/7a5ebfb0-0508-48ab-be9a-31b36ba53f97-cover.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+<img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
 </div>
+
 ---
 
 ### 📁 Test artifacts:
