@@ -12,11 +12,11 @@ Also i have some experience in UI/UX design of web applications and interfaces, 
 
 ### 🤝 Social media links:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/elena-gitarina/" target="_blank">
+  <div>
+    <a href="https://www.linkedin.com/in/elena-gitarina/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/umbralmoon" target="_blank">
+    <a href="https://t.me/umbralmoon">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
