@@ -13,8 +13,8 @@ Also i have some experience in UI/UX design of web applications and interfaces, 
 ### 🤝 Social media links:
 
   <div>
-    <a href="https://www.linkedin.com/in/elena-gitarina/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" alt="linkedin" text-decoration="none"/>
+    <a href="https://www.linkedin.com/in/elena-gitarina/" text-decoration="none">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/umbralmoon">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40" alt="telegram" />
@@ -53,7 +53,7 @@ Also i have some experience in UI/UX design of web applications and interfaces, 
 
 ### 📚 Other:
 <div>
-<img src="https://s3-alpha.figma.com/hub/file/2815952264/7a5ebfb0-0508-48ab-be9a-31b36ba53f97-cover.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5sUpfUvJRtNSF3sriKoMNMo0hkEQPPSbcxg&usqp=CAU" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzMBlC53RmPccg8Z04qM9RzGuNMEDWOOwPZYDglvYuWld-J3UZoSHkGTnRAvanTv03hk4&usqp=CAU" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
 </div>
