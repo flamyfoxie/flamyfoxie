@@ -1,23 +1,23 @@
-# Hi, my name is Elena!
+# Hi, my name is Elena :)
 
 ### 👨‍💻 About me:
 
-Привет! Меня зовут Елена и это мое резюме для позиции Junior QA. Здесь собрано портфолио из различных обучений и пет-проектов, которыми я бы хотела поделиться.
+Hi! My name is Elena and this is my CV for a Junior QA position! On this page I would like to share with you my experience in different studies and show you some of my pet projects!
 
-Ссылка на мое полное резюме: in progress
+This is my CV: in progress
 
-Имею опыт в ux/ui проектировании веб-интерфесов и мобильных приложений, а так же в разработке на языке Javascript. В свободное время изучаю автоматизацию тестирования с помощью Javascript.
-
+Also i have some experience in UI/UX design of web applications and interfaces, and JavaScript development. Right now I'm learning automation testing on JavaScript in my free time.
 
 ---
+
 ### 🤝 Social media links:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/elena-gitarina/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/umbralmoon" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
 
