@@ -4,7 +4,7 @@
 
 Hi! My name is Elena and this is my CV for a Junior QA position! On this page I would like to share with you my experience in different studies and show you some of my pet projects!
 
-This is my CV: in progress
+This is my CV: <a href="https://drive.google.com/file/d/1OnlbBV8fYpI6bFuL4Aghej99Es9gJNFU/view?usp=sharing">CV<a>.
 
 Also i have some experience in <a href="https://www.linkedin.com/in/elena-gitarina/details/education/1635484642610/single-media-viewer/?profileId=ACoAAC9QVv8B0tX9CzR3GquQ2PH4IWXq6vSdiko">UX/UI design of web applications and interfaces</a>, and <a href="https://www.linkedin.com/in/elena-gitarina/details/education/1635484646060/single-media-viewer/?profileId=ACoAAC9QVv8B0tX9CzR3GquQ2PH4IWXq6vSdiko"> JavaScript development</a>. Right now I'm learning automation testing on JavaScript in my free time.
 
@@ -21,6 +21,7 @@ UX/UI portfolio: <a href="https://www.behance.net/flamyfoxie">Behance</a>
     <a href="https://t.me/umbralmoon">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40" alt="telegram" />
     </a>
+    <a href= "mailto:skytempleris@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
   </div>
 
 ---
