@@ -6,14 +6,16 @@ Hi! My name is Elena and this is my CV for a Junior QA position! On this page I 
 
 This is my CV: in progress
 
-Also i have some experience in UI/UX design of web applications and interfaces, and JavaScript development. Right now I'm learning automation testing on JavaScript in my free time.
+Also i have some experience in <a href="https://www.linkedin.com/in/elena-gitarina/details/education/1635484642610/single-media-viewer/?profileId=ACoAAC9QVv8B0tX9CzR3GquQ2PH4IWXq6vSdiko">UX/UI design of web applications and interfaces</a>, and <a href="https://www.linkedin.com/in/elena-gitarina/details/education/1635484646060/single-media-viewer/?profileId=ACoAAC9QVv8B0tX9CzR3GquQ2PH4IWXq6vSdiko"> JavaScript development</a>. Right now I'm learning automation testing on JavaScript in my free time.
+
+UX/UI portfolio: <a href="https://www.behance.net/flamyfoxie">Behance</a>
 
 ---
 
 ### 🤝 Social media links:
 
   <div>
-    <a href="https://www.linkedin.com/in/elena-gitarina/" text-decoration="none">
+    <a href="https://www.linkedin.com/in/elena-gitarina/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/umbralmoon">
