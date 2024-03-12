@@ -68,5 +68,5 @@ UX/UI portfolio: <a href="https://www.behance.net/flamyfoxie">Behance</a>
 <h3>Test documentation</h3>
 <a href="https://github.com/flamyfoxie/testartifacts">Test documentations examples</a>
 </br>
-<h3>Code exampels</h3>
+<h3>Code exampels (in progress)</h3>
 </div>
