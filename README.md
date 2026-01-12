@@ -4,7 +4,7 @@
 
 Hi! My name is Elena and this is my CV for a Junior QA position! On this page I would like to share with you my experience in different studies and show you some of my pet projects!
 
-My <a href="https://drive.google.com/file/d/162PdxSA1MQs8gc1gwM9UmXgGKgMwg9cl/view?usp=sharing">CV<a>.
+My <a href="https://drive.google.com/file/d/1eOre8CqpTa_YEV3EgbxZFSAhD8v-hH3e/view?usp=sharing">CV<a>.
 
 Also i have some experience in <a href="https://www.linkedin.com/in/elena-gitarina/details/education/1635484642610/single-media-viewer/?profileId=ACoAAC9QVv8B0tX9CzR3GquQ2PH4IWXq6vSdiko">UX/UI design of web applications and interfaces</a>, and <a href="https://www.linkedin.com/in/elena-gitarina/details/education/1635484646060/single-media-viewer/?profileId=ACoAAC9QVv8B0tX9CzR3GquQ2PH4IWXq6vSdiko"> JavaScript development</a>. Right now I'm learning automation testing on JavaScript in my free time.
 
